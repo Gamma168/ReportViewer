@@ -23,6 +23,6 @@ Export tif  watermark
 
 匯出 tif 浮水印
 
-[email:gamma168@gmail.com](gamma168@gmail.com)
+email:gamma168@gmail.com
 
 ![Logo](ReportView.png)
