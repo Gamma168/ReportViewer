@@ -11,4 +11,4 @@ pdf watermark
 
 tif  watermark
 
-![Logo](ReportViewer.)
+![Logo](/ReportViewer.png)
