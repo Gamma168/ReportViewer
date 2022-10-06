@@ -9,9 +9,9 @@ Export odt
 
 Export ods 
 
-Export pdf watermark
+Export pdf add watermark
 
-Export tif  watermark
+Export tif add watermark
 
 選單增加
 
@@ -19,9 +19,9 @@ Export tif  watermark
 
 匯出 ods 
 
-匯出 pdf 浮水印
+匯出 pdf 增加 浮水印
 
-匯出 tif 浮水印
+匯出 tif 增加 浮水印
 
 contact
 
